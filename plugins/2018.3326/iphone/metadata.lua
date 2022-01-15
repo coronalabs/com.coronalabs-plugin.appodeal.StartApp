@@ -3,8 +3,8 @@ local metadata =
 	plugin =
 	{
 		format = 'staticLibrary',
-		staticLibs = { 'APDStartAppAdapter', },
-		frameworks = { 'StartApp', },
+		staticLibs = { },
+		frameworks = { },
 		frameworksOptional = {},
 	},
 }
